@@ -1,0 +1,14 @@
+h1
+{   color: forestgreen;
+    font-size: 40px;
+    text-align: end;
+}
+
+h2
+{   font-size: 20px;
+    text-align: end;
+}
+
+.imagen
+{   vertical-align: middle;
+}
